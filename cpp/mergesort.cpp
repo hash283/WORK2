@@ -1,3 +1,4 @@
+//program to sort array of integers using mergesort
 #include<iostream>
 void sorts(int ar[],int sp,int ep);
 void merge(int ar[],int sp,int mp,int ep);
