@@ -1,1 +1,1 @@
-Implementaion of fifteen puzzle in terminal window in C
+Implementaion of fifteen puzzle in terminal window using C language
