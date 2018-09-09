@@ -1,3 +1,4 @@
+//program to compute inversions in a user inputed array in O(nlogn) time
 #include<iostream>
 using namespace std;
 int sort(int ar[],int sp,int ep);
