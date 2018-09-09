@@ -1,3 +1,4 @@
+//algorithm to compute connected components in an undirected graph using bfs
 #include<iostream>
 #include<vector>
 #include<string>
