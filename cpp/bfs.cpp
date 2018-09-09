@@ -1,3 +1,4 @@
+//algorithm to compute minimum hops from one point to another using bfs
 #include<iostream>
 #include<string>
 #include<fstream>
