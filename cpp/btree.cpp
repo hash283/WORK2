@@ -1,3 +1,4 @@
+//a binary tree implementation and various functions
 #include<iostream>
 #include<climits>
 struct node
