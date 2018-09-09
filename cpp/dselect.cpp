@@ -1,3 +1,4 @@
+//deterministic selection algorithm to find the ith order element in an array or a list
 #include<iostream>
 #include"sortutil.h"
 using namespace std;
