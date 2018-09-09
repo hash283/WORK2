@@ -1,3 +1,4 @@
+//program to compute median from a set of nos in O(logn) using stl priority queue
 #include<iostream>
 #include<queue>
 #include<fstream>
