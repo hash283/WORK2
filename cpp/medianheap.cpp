@@ -1,3 +1,4 @@
+//program to compute median from a set of nos in O(logn) time using a heap
 #include<iostream>
 #include<fstream>
 #include<vector>
