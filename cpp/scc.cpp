@@ -1,3 +1,4 @@
+//program to compute strongly connected components in a directed graph using Kosaraju algorithm
 #include<iostream>
 #include<vector>
 #include<chrono>
